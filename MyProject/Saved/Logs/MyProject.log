@@ -1255,3 +1255,480 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.05-13.11.50:866][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
 [2021.04.05-13.11.50:885][263]AssetCheck: New page: Asset Save: Tutorial5-BreakBlocks
 [2021.04.05-13.11.50:885][263]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial5-BreakBlocks.Tutorial5-BreakBlocks
+[2021.04.05-14.04.36:014][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.04.05-14.04.36:155][684]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level2.Level2
+[2021.04.05-14.04.36:155][684]Cmd: MAP LOAD FILE="../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-14.04.36:156][684]LightingResults: New page: Lighting Build
+[2021.04.05-14.04.36:156][684]LoadErrors: New page: Loading map: Level2.umap
+[2021.04.05-14.04.36:157][684]LogWorld: UWorld::CleanupWorld for Tutorial3-Colors, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.04.36:157][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.04.36:158][684]MapCheck: New page: Map Check
+[2021.04.05-14.04.36:158][684]LightingResults: New page: Lighting Build
+[2021.04.05-14.04.36:162][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.04.36:165][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.04.05-14.04.36:172][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.05-14.04.36:179][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.05-14.04.36:186][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.05-14.04.36:190][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.05-14.04.36:190][684]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2021.04.05-14.04.36:198][684]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-14.04.36:198][684]LogAIModule: Creating AISystem for world Level2
+[2021.04.05-14.04.36:204][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.05-14.04.36:216][684]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-14.04.36:216][684]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2021.04.05-14.04.36:216][684]LogFileHelpers: Loading map 'Level2' took 0.061
+[2021.04.05-14.04.43:116][503]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.05-14.04.43:123][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.05-14.04.43:123][503]PIE: New page: PIE session: Level2 (Apr 5, 2021, 6:04:43 AM)
+[2021.04.05-14.04.43:123][503]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level2
+[2021.04.05-14.04.43:133][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009903s)
+[2021.04.05-14.04.43:134][503]LogAIModule: Creating AISystem for world Level2
+[2021.04.05-14.04.43:134][503]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2021.04.05-14.04.43:134][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level2.Level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level2.Level2 (0.010913s)
+[2021.04.05-14.04.43:138][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.05-14.04.43:139][503]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.05-14.04.43:139][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.05-14.04.43:139][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.05-14.04.43:139][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.05-14.04.43:139][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.05-14.04.43:139][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.05-14.04.43:139][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.05-14.04.43:139][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.05-14.04.43:139][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.05-14.04.43:140][503]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.05-14.04.43:140][503]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.05-14.04.43:142][503]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.05-14.04.43:142][503]LogAudioMixer: Display: 1: FrontRight
+[2021.04.05-14.04.43:150][503]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.05-14.04.43:151][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.05-14.04.43:151][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.05-14.04.43:151][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.05-14.04.43:152][503]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.05-14.04.43:152][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.05-14.04.43:152][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.05-14.04.43:162][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.05-14.04.43:162][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.05-14.04.43:162][503]LogInit: FAudioDevice initialized.
+[2021.04.05-14.04.43:162][503]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level2'.
+[2021.04.05-14.04.43:170][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.05-14.04.43:171][503]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.04.05-10.04.43
+[2021.04.05-14.04.43:171][503]LogWorld: Bringing up level for play took: 0.000967
+[2021.04.05-14.04.43:171][503]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.04.05-14.04.43:192][503]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.05-14.04.43:193][503]PIE: Server logged in
+[2021.04.05-14.04.43:193][503]PIE: Play in editor total start time 0.07 seconds.
+[2021.04.05-14.04.45:354][762]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue was zero and has changed. Consider manually Re-saving the asset
+[2021.04.05-14.04.50:926][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-14.04.50:927][427]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level2
+[2021.04.05-14.04.50:953][427]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.04.50:953][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.04.50:962][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.05-14.04.50:963][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.04.50:967][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-14.04.50:967][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.05-14.04.50:967][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.05-14.04.50:980][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.05-14.04.51:026][431]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.04.05-14.09.24:839][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.04.05-14.09.27:139][201]LogSlate: Window 'Save Content' being destroyed
+[2021.04.05-14.09.27:157][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.04.05-14.09.27:197][201]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Level2CB95C78E48A5F5562E10998D11899534.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Level2.umap'
+[2021.04.05-14.09.27:212][201]LogFileHelpers: Saving map 'Level2' took 0.059
+[2021.04.05-14.09.27:237][201]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Tutorial1-Movement.Tutorial1-Movement
+[2021.04.05-14.09.27:237][201]Cmd: MAP LOAD FILE="../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial1-Movement.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-14.09.27:238][201]LightingResults: New page: Lighting Build
+[2021.04.05-14.09.27:238][201]LoadErrors: New page: Loading map: Tutorial1-Movement.umap
+[2021.04.05-14.09.27:239][201]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.09.27:239][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.09.27:239][201]MapCheck: New page: Map Check
+[2021.04.05-14.09.27:239][201]LightingResults: New page: Lighting Build
+[2021.04.05-14.09.27:243][201]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.09.27:245][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.05-14.09.27:246][201]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial1-Movement'.
+[2021.04.05-14.09.27:248][201]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-14.09.27:248][201]LogAIModule: Creating AISystem for world Tutorial1-Movement
+[2021.04.05-14.09.27:255][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.04.05-14.09.27:265][201]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-14.09.27:265][201]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2021.04.05-14.09.27:265][201]LogFileHelpers: Loading map 'Tutorial1-Movement' took 0.028
+[2021.04.05-14.09.27:283][201]AssetCheck: New page: Asset Save: Level2
+[2021.04.05-14.09.27:283][201]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level2.Level2
+[2021.04.05-14.09.29:977][498]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Tutorial1-Movement.Tutorial1-Movement:PersistentLevel.Tutorial1-Movement
+[2021.04.05-14.09.30:985][498]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.04.05-14.09.32:018][498]LogSlate: Took 0.003788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.05-14.09.32:553][499]LogSlate: Took 0.014561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.05-14.09.43:973][815]LogEditorTransaction: Undo Move Node
+[2021.04.05-14.09.44:916][895]LogEditorTransaction: Undo Delete current selection
+[2021.04.05-14.09.53:532][839]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [Element not found.]
+[2021.04.05-14.10.05:727][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.05-14.10.05:762][285]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial1-MovementF29C965E49102CC9387428B805C20A16.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial1-Movement.umap'
+[2021.04.05-14.10.05:775][285]LogFileHelpers: Saving map 'Tutorial1-Movement' took 0.075
+[2021.04.05-14.10.05:782][285]AssetCheck: New page: Asset Save: Tutorial1-Movement
+[2021.04.05-14.10.05:782][285]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial1-Movement.Tutorial1-Movement
+[2021.04.05-14.10.07:442][479]BlueprintLog: New page: Compile Tutorial1-Movement
+[2021.04.05-14.10.07:469][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.04.05-14.10.07:521][479]LogSlate: Took 0.024943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.05-14.10.09:149][668]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.05-14.10.09:157][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.05-14.10.09:157][668]PIE: New page: PIE session: Tutorial1-Movement (Apr 5, 2021, 6:10:09 AM)
+[2021.04.05-14.10.09:157][668]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial1-Movement
+[2021.04.05-14.10.09:166][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009105s)
+[2021.04.05-14.10.09:167][668]LogAIModule: Creating AISystem for world Tutorial1-Movement
+[2021.04.05-14.10.09:167][668]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2021.04.05-14.10.09:167][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Tutorial1-Movement.Tutorial1-Movement to /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial1-Movement.Tutorial1-Movement (0.010035s)
+[2021.04.05-14.10.09:182][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.04.05-14.10.09:183][668]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.05-14.10.09:183][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.05-14.10.09:183][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.05-14.10.09:183][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.05-14.10.09:183][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.05-14.10.09:183][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.05-14.10.09:183][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.05-14.10.09:183][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.05-14.10.09:183][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.05-14.10.09:183][668]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.05-14.10.09:183][668]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.05-14.10.09:185][668]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.05-14.10.09:185][668]LogAudioMixer: Display: 1: FrontRight
+[2021.04.05-14.10.09:193][668]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.05-14.10.09:194][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.05-14.10.09:194][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.05-14.10.09:194][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.05-14.10.09:194][668]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.05-14.10.09:194][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.05-14.10.09:194][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.05-14.10.09:207][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.05-14.10.09:207][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.05-14.10.09:207][668]LogInit: FAudioDevice initialized.
+[2021.04.05-14.10.09:207][668]LogAudio: Display: Audio Device (ID: 4) registered with world 'Tutorial1-Movement'.
+[2021.04.05-14.10.09:218][668]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.05-14.10.09:219][668]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial1-Movement.Tutorial1-Movement up for play (max tick rate 0) at 2021.04.05-10.10.09
+[2021.04.05-14.10.09:219][668]LogWorld: Bringing up level for play took: 0.001151
+[2021.04.05-14.10.09:220][668]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.04.05-14.10.09:221][668]PIE: Server logged in
+[2021.04.05-14.10.09:222][668]PIE: Play in editor total start time 0.066 seconds.
+[2021.04.05-14.10.15:996][476]LogNet: Browse: /Game/ThirdPersonBP/Maps/Tutorial2-obstacles
+[2021.04.05-14.10.16:017][476]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Tutorial2-obstacles
+[2021.04.05-14.10.16:017][476]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial1-Movement
+[2021.04.05-14.10.16:018][476]LogWorld: UWorld::CleanupWorld for Tutorial1-Movement, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.10.16:018][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.10.16:066][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.10.16:068][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.04.05-14.10.16:084][476]LogAudio: Display: Audio Device (ID: 4) registered with world 'Tutorial2-obstacles'.
+[2021.04.05-14.10.16:085][476]LogAIModule: Creating AISystem for world Tutorial2-obstacles
+[2021.04.05-14.10.16:085][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.05-14.10.16:087][476]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial2-obstacles.Tutorial2-obstacles up for play (max tick rate 0) at 2021.04.05-10.10.16
+[2021.04.05-14.10.16:087][476]LogWorld: Bringing up level for play took: 0.001734
+[2021.04.05-14.10.16:088][476]LogLoad: Took 0.071037 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Tutorial2-obstacles)
+[2021.04.05-14.10.20:303][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-14.10.20:303][933]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial2-obstacles
+[2021.04.05-14.10.20:303][933]LogWorld: UWorld::CleanupWorld for Tutorial2-obstacles, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.10.20:304][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.10.20:313][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.05-14.10.20:315][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.10.20:329][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-14.10.20:329][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.05-14.10.20:330][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.05-14.10.20:344][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.04.05-14.10.20:367][935]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.04.05-14.10.27:935][831]LogSlate: Window 'Tutorial1-Movement' being destroyed
+[2021.04.05-14.10.27:938][831]LogSlate: Window 'Tutorial1-Movement' being destroyed
+[2021.04.05-14.10.27:949][831]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.10.27:949][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.10.29:233][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.04.05-14.10.30:261][977]LogSlate: Window 'Save Content' being destroyed
+[2021.04.05-14.10.30:291][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.05-14.10.30:325][977]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial1-Movement5001CF104F7010D9C926958475653B36.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial1-Movement.umap'
+[2021.04.05-14.10.30:337][977]LogFileHelpers: Saving map 'Tutorial1-Movement' took 0.059
+[2021.04.05-14.10.30:363][977]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Tutorial2-obstacles.Tutorial2-obstacles
+[2021.04.05-14.10.30:363][977]Cmd: MAP LOAD FILE="../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial2-obstacles.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-14.10.30:363][977]LightingResults: New page: Lighting Build
+[2021.04.05-14.10.30:363][977]LoadErrors: New page: Loading map: Tutorial2-obstacles.umap
+[2021.04.05-14.10.30:365][977]LogWorld: UWorld::CleanupWorld for Tutorial1-Movement, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.10.30:365][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.10.30:365][977]MapCheck: New page: Map Check
+[2021.04.05-14.10.30:365][977]LightingResults: New page: Lighting Build
+[2021.04.05-14.10.30:378][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.10.30:380][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.04.05-14.10.30:395][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.04.05-14.10.30:408][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.04.05-14.10.30:408][977]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial2-obstacles'.
+[2021.04.05-14.10.30:411][977]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-14.10.30:411][977]LogAIModule: Creating AISystem for world Tutorial2-obstacles
+[2021.04.05-14.10.30:425][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.05-14.10.30:435][977]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-14.10.30:435][977]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2021.04.05-14.10.30:435][977]LogFileHelpers: Loading map 'Tutorial2-obstacles' took 0.073
+[2021.04.05-14.10.30:454][977]AssetCheck: New page: Asset Save: Tutorial1-Movement
+[2021.04.05-14.10.30:454][977]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial1-Movement.Tutorial1-Movement
+[2021.04.05-14.10.32:763][246]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Tutorial2-obstacles.Tutorial2-obstacles:PersistentLevel.Tutorial2-obstacles
+[2021.04.05-14.10.50:919][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.04.05-14.10.50:956][320]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial2-obstaclesB6F7770149E107DF6537F89BFF3CDBB3.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial2-obstacles.umap'
+[2021.04.05-14.10.50:968][320]LogFileHelpers: Saving map 'Tutorial2-obstacles' took 0.065
+[2021.04.05-14.10.50:975][320]AssetCheck: New page: Asset Save: Tutorial2-obstacles
+[2021.04.05-14.10.50:975][320]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial2-obstacles.Tutorial2-obstacles
+[2021.04.05-14.10.51:832][421]BlueprintLog: New page: Compile Tutorial2-obstacles
+[2021.04.05-14.10.51:858][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.04.05-14.10.55:943][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.05-14.10.57:572][904]LogSlate: Window 'Save Content' being destroyed
+[2021.04.05-14.10.57:599][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.05-14.10.57:635][904]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial2-obstaclesA9C290894D88E6E9B21BFFA521FE01A5.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial2-obstacles.umap'
+[2021.04.05-14.10.57:647][904]LogFileHelpers: Saving map 'Tutorial2-obstacles' took 0.063
+[2021.04.05-14.10.57:677][904]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Tutorial3-Colors.Tutorial3-Colors
+[2021.04.05-14.10.57:677][904]Cmd: MAP LOAD FILE="../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial3-Colors.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-14.10.57:677][904]LightingResults: New page: Lighting Build
+[2021.04.05-14.10.57:677][904]LoadErrors: New page: Loading map: Tutorial3-Colors.umap
+[2021.04.05-14.10.57:678][904]LogSlate: Window 'Tutorial2-obstacles' being destroyed
+[2021.04.05-14.10.57:688][904]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.10.57:688][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.10.57:715][904]LogWorld: UWorld::CleanupWorld for Tutorial2-obstacles, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.10.57:715][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.10.57:715][904]MapCheck: New page: Map Check
+[2021.04.05-14.10.57:715][904]LightingResults: New page: Lighting Build
+[2021.04.05-14.10.57:727][904]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.10.57:731][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.04.05-14.10.57:746][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.04.05-14.10.57:758][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.04.05-14.10.57:758][904]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial3-Colors'.
+[2021.04.05-14.10.57:761][904]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-14.10.57:761][904]LogAIModule: Creating AISystem for world Tutorial3-Colors
+[2021.04.05-14.10.57:776][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.04.05-14.10.57:786][904]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-14.10.57:786][904]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2021.04.05-14.10.57:786][904]LogFileHelpers: Loading map 'Tutorial3-Colors' took 0.109
+[2021.04.05-14.10.57:807][904]AssetCheck: New page: Asset Save: Tutorial2-obstacles
+[2021.04.05-14.10.57:807][904]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial2-obstacles.Tutorial2-obstacles
+[2021.04.05-14.10.58:322][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.04.05-14.10.58:334][961]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Tutorial2-obstacles.Tutorial2-obstacles
+[2021.04.05-14.10.58:334][961]Cmd: MAP LOAD FILE="../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial2-obstacles.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-14.10.58:334][961]LightingResults: New page: Lighting Build
+[2021.04.05-14.10.58:334][961]LoadErrors: New page: Loading map: Tutorial2-obstacles.umap
+[2021.04.05-14.10.58:335][961]LogWorld: UWorld::CleanupWorld for Tutorial3-Colors, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.10.58:335][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.10.58:335][961]MapCheck: New page: Map Check
+[2021.04.05-14.10.58:336][961]LightingResults: New page: Lighting Build
+[2021.04.05-14.10.58:347][961]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.10.58:350][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.04.05-14.10.58:350][961]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial2-obstacles'.
+[2021.04.05-14.10.58:352][961]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-14.10.58:352][961]LogAIModule: Creating AISystem for world Tutorial2-obstacles
+[2021.04.05-14.10.58:366][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.04.05-14.10.58:376][961]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-14.10.58:377][961]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2021.04.05-14.10.58:377][961]LogFileHelpers: Loading map 'Tutorial2-obstacles' took 0.043
+[2021.04.05-14.11.01:527][327]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Tutorial2-obstacles.Tutorial2-obstacles:PersistentLevel.Tutorial2-obstacles
+[2021.04.05-14.11.06:165][850]BlueprintLog: New page: Compile Tutorial2-obstacles
+[2021.04.05-14.11.06:193][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.04.05-14.11.07:570][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.05-14.11.07:607][  7]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial2-obstaclesFD15EFB7462D940F53310788213E4B73.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial2-obstacles.umap'
+[2021.04.05-14.11.07:619][  7]LogFileHelpers: Saving map 'Tutorial2-obstacles' took 0.062
+[2021.04.05-14.11.07:626][  7]AssetCheck: New page: Asset Save: Tutorial2-obstacles
+[2021.04.05-14.11.07:626][  7]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial2-obstacles.Tutorial2-obstacles
+[2021.04.05-14.11.08:224][ 79]LogSlate: Window 'Tutorial2-obstacles' being destroyed
+[2021.04.05-14.11.08:227][ 79]LogSlate: Window 'Tutorial2-obstacles' being destroyed
+[2021.04.05-14.11.08:233][ 79]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.11.08:233][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.11.09:297][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.04.05-14.11.09:322][201]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Tutorial3-Colors.Tutorial3-Colors
+[2021.04.05-14.11.09:322][201]Cmd: MAP LOAD FILE="../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial3-Colors.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-14.11.09:322][201]LightingResults: New page: Lighting Build
+[2021.04.05-14.11.09:322][201]LoadErrors: New page: Loading map: Tutorial3-Colors.umap
+[2021.04.05-14.11.09:324][201]LogWorld: UWorld::CleanupWorld for Tutorial2-obstacles, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.11.09:324][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.11.09:324][201]MapCheck: New page: Map Check
+[2021.04.05-14.11.09:324][201]LightingResults: New page: Lighting Build
+[2021.04.05-14.11.09:335][201]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.11.09:338][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.04.05-14.11.09:338][201]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial3-Colors'.
+[2021.04.05-14.11.09:341][201]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-14.11.09:341][201]LogAIModule: Creating AISystem for world Tutorial3-Colors
+[2021.04.05-14.11.09:355][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.05-14.11.09:367][201]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-14.11.09:367][201]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2021.04.05-14.11.09:367][201]LogFileHelpers: Loading map 'Tutorial3-Colors' took 0.045
+[2021.04.05-14.11.12:429][562]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Tutorial3-Colors.Tutorial3-Colors:PersistentLevel.Tutorial3-Colors
+[2021.04.05-14.11.28:997][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.04.05-14.11.29:033][470]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial3-Colors4971A25E4DE44469960F40A62512A892.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial3-Colors.umap'
+[2021.04.05-14.11.29:045][470]LogFileHelpers: Saving map 'Tutorial3-Colors' took 0.064
+[2021.04.05-14.11.29:054][470]AssetCheck: New page: Asset Save: Tutorial3-Colors
+[2021.04.05-14.11.29:054][470]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial3-Colors.Tutorial3-Colors
+[2021.04.05-14.11.29:524][524]BlueprintLog: New page: Compile Tutorial3-Colors
+[2021.04.05-14.11.29:551][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.04.05-14.11.30:549][639]LogSlate: Window 'Tutorial3-Colors' being destroyed
+[2021.04.05-14.11.30:552][639]LogSlate: Window 'Tutorial3-Colors' being destroyed
+[2021.04.05-14.11.30:558][639]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.11.30:558][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.11.31:016][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.04.05-14.11.31:051][688]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial3-ColorsA44856464FCC3F95F11F9AB97DFE9A51.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial3-Colors.umap'
+[2021.04.05-14.11.31:063][688]LogFileHelpers: Saving map 'Tutorial3-Colors' took 0.061
+[2021.04.05-14.11.31:070][688]AssetCheck: New page: Asset Save: Tutorial3-Colors
+[2021.04.05-14.11.31:070][688]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial3-Colors.Tutorial3-Colors
+[2021.04.05-14.11.33:983][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.04.05-14.11.33:993][ 21]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Tutorial5-BreakBlocks.Tutorial5-BreakBlocks
+[2021.04.05-14.11.33:994][ 21]Cmd: MAP LOAD FILE="../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial5-BreakBlocks.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-14.11.33:994][ 21]LightingResults: New page: Lighting Build
+[2021.04.05-14.11.33:994][ 21]LoadErrors: New page: Loading map: Tutorial5-BreakBlocks.umap
+[2021.04.05-14.11.33:995][ 21]LogWorld: UWorld::CleanupWorld for Tutorial3-Colors, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.11.33:995][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.11.33:995][ 21]MapCheck: New page: Map Check
+[2021.04.05-14.11.33:995][ 21]LightingResults: New page: Lighting Build
+[2021.04.05-14.11.34:007][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.11.34:009][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.04.05-14.11.34:009][ 21]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial5-BreakBlocks'.
+[2021.04.05-14.11.34:016][ 21]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-14.11.34:016][ 21]LogAIModule: Creating AISystem for world Tutorial5-BreakBlocks
+[2021.04.05-14.11.34:030][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.05-14.11.34:041][ 21]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-14.11.34:041][ 21]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2021.04.05-14.11.34:041][ 21]LogFileHelpers: Loading map 'Tutorial5-BreakBlocks' took 0.047
+[2021.04.05-14.11.35:559][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.04.05-14.11.35:586][199]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Tutorial4-PushBlocks.Tutorial4-PushBlocks
+[2021.04.05-14.11.35:586][199]Cmd: MAP LOAD FILE="../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial4-PushBlocks.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-14.11.35:587][199]LightingResults: New page: Lighting Build
+[2021.04.05-14.11.35:587][199]LoadErrors: New page: Loading map: Tutorial4-PushBlocks.umap
+[2021.04.05-14.11.35:588][199]LogWorld: UWorld::CleanupWorld for Tutorial5-BreakBlocks, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.11.35:588][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.11.35:588][199]MapCheck: New page: Map Check
+[2021.04.05-14.11.35:588][199]LightingResults: New page: Lighting Build
+[2021.04.05-14.11.35:599][199]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.11.35:601][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.04.05-14.11.35:602][199]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial4-PushBlocks'.
+[2021.04.05-14.11.35:608][199]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-14.11.35:608][199]LogAIModule: Creating AISystem for world Tutorial4-PushBlocks
+[2021.04.05-14.11.35:623][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.04.05-14.11.35:634][199]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-14.11.35:634][199]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2021.04.05-14.11.35:634][199]LogFileHelpers: Loading map 'Tutorial4-PushBlocks' took 0.048
+[2021.04.05-14.11.37:465][411]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Tutorial4-PushBlocks.Tutorial4-PushBlocks:PersistentLevel.Tutorial4-PushBlocks
+[2021.04.05-14.11.58:107][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.04.05-14.11.58:143][805]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial4-PushBlocks436719864FED768F73D715ABBE979C75.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial4-PushBlocks.umap'
+[2021.04.05-14.11.58:155][805]LogFileHelpers: Saving map 'Tutorial4-PushBlocks' took 0.063
+[2021.04.05-14.11.58:162][805]AssetCheck: New page: Asset Save: Tutorial4-PushBlocks
+[2021.04.05-14.11.58:162][805]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial4-PushBlocks.Tutorial4-PushBlocks
+[2021.04.05-14.11.59:296][939]BlueprintLog: New page: Compile Tutorial4-PushBlocks
+[2021.04.05-14.11.59:322][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.04.05-14.12.00:897][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.04.05-14.12.00:942][117]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial4-PushBlocksC9E5546F42F7C7045A0D2B97A9C00BB2.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial4-PushBlocks.umap'
+[2021.04.05-14.12.00:954][117]LogFileHelpers: Saving map 'Tutorial4-PushBlocks' took 0.071
+[2021.04.05-14.12.00:960][117]AssetCheck: New page: Asset Save: Tutorial4-PushBlocks
+[2021.04.05-14.12.00:961][117]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial4-PushBlocks.Tutorial4-PushBlocks
+[2021.04.05-14.12.01:972][237]LogSlate: Window 'Tutorial4-PushBlocks' being destroyed
+[2021.04.05-14.12.01:974][237]LogSlate: Window 'Tutorial4-PushBlocks' being destroyed
+[2021.04.05-14.12.01:981][237]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.12.01:981][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.12.53:309][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.04.05-14.12.53:345][213]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial4-PushBlocksC4AF63A7471123CF001793A0AF925C64.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial4-PushBlocks.umap'
+[2021.04.05-14.12.53:364][213]AssetCheck: New page: Asset Save: Tutorial4-PushBlocks
+[2021.04.05-14.12.53:364][213]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial4-PushBlocks.Tutorial4-PushBlocks
+[2021.04.05-14.12.54:408][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.04.05-14.12.54:433][335]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Tutorial1-Movement.Tutorial1-Movement
+[2021.04.05-14.12.54:433][335]Cmd: MAP LOAD FILE="../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial1-Movement.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-14.12.54:433][335]LightingResults: New page: Lighting Build
+[2021.04.05-14.12.54:433][335]LoadErrors: New page: Loading map: Tutorial1-Movement.umap
+[2021.04.05-14.12.54:435][335]LogWorld: UWorld::CleanupWorld for Tutorial4-PushBlocks, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.12.54:435][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.12.54:435][335]MapCheck: New page: Map Check
+[2021.04.05-14.12.54:435][335]LightingResults: New page: Lighting Build
+[2021.04.05-14.12.54:447][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.12.54:450][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.04.05-14.12.54:450][335]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial1-Movement'.
+[2021.04.05-14.12.54:452][335]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-14.12.54:453][335]LogAIModule: Creating AISystem for world Tutorial1-Movement
+[2021.04.05-14.12.54:466][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.04.05-14.12.54:477][335]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-14.12.54:477][335]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2021.04.05-14.12.54:477][335]LogFileHelpers: Loading map 'Tutorial1-Movement' took 0.044
+[2021.04.05-14.12.55:028][399]LogEditorViewport: Clicking on Actor (LMB): Space_SkyBox_C (Space_SkyBox)
+[2021.04.05-14.12.55:438][444]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.05-14.12.55:446][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.05-14.12.55:446][444]PIE: New page: PIE session: Tutorial1-Movement (Apr 5, 2021, 6:12:55 AM)
+[2021.04.05-14.12.55:446][444]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial1-Movement
+[2021.04.05-14.12.55:455][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008862s)
+[2021.04.05-14.12.55:456][444]LogAIModule: Creating AISystem for world Tutorial1-Movement
+[2021.04.05-14.12.55:456][444]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2021.04.05-14.12.55:456][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Tutorial1-Movement.Tutorial1-Movement to /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial1-Movement.Tutorial1-Movement (0.009706s)
+[2021.04.05-14.12.55:468][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.04.05-14.12.55:469][444]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.05-14.12.55:469][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.05-14.12.55:469][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.05-14.12.55:469][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.05-14.12.55:469][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.05-14.12.55:469][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.05-14.12.55:469][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.05-14.12.55:469][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.05-14.12.55:469][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.05-14.12.55:469][444]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.05-14.12.55:469][444]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.05-14.12.55:472][444]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.05-14.12.55:472][444]LogAudioMixer: Display: 1: FrontRight
+[2021.04.05-14.12.55:479][444]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.05-14.12.55:479][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.05-14.12.55:480][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.05-14.12.55:480][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.05-14.12.55:480][444]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.05-14.12.55:480][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.05-14.12.55:480][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.05-14.12.55:491][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.05-14.12.55:491][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.05-14.12.55:491][444]LogInit: FAudioDevice initialized.
+[2021.04.05-14.12.55:491][444]LogAudio: Display: Audio Device (ID: 5) registered with world 'Tutorial1-Movement'.
+[2021.04.05-14.12.55:495][444]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.05-14.12.55:496][444]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial1-Movement.Tutorial1-Movement up for play (max tick rate 0) at 2021.04.05-10.12.55
+[2021.04.05-14.12.55:496][444]LogWorld: Bringing up level for play took: 0.000811
+[2021.04.05-14.12.55:496][444]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.04.05-14.12.55:498][444]PIE: Server logged in
+[2021.04.05-14.12.55:498][444]PIE: Play in editor total start time 0.053 seconds.
+[2021.04.05-14.13.00:312][ 21]LogNet: Browse: /Game/ThirdPersonBP/Maps/Tutorial2-obstacles
+[2021.04.05-14.13.00:312][ 21]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Tutorial2-obstacles
+[2021.04.05-14.13.00:312][ 21]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial1-Movement
+[2021.04.05-14.13.00:312][ 21]LogWorld: UWorld::CleanupWorld for Tutorial1-Movement, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.13.00:313][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.13.00:363][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.13.00:366][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.04.05-14.13.00:382][ 21]LogAudio: Display: Audio Device (ID: 5) registered with world 'Tutorial2-obstacles'.
+[2021.04.05-14.13.00:383][ 21]LogAIModule: Creating AISystem for world Tutorial2-obstacles
+[2021.04.05-14.13.00:383][ 21]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.05-14.13.00:385][ 21]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial2-obstacles.Tutorial2-obstacles up for play (max tick rate 0) at 2021.04.05-10.13.00
+[2021.04.05-14.13.00:385][ 21]LogWorld: Bringing up level for play took: 0.001959
+[2021.04.05-14.13.00:386][ 21]LogLoad: Took 0.073420 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Tutorial2-obstacles)
+[2021.04.05-14.13.07:106][827]LogNet: Browse: /Game/ThirdPersonBP/Maps/Tutorial3-Colors
+[2021.04.05-14.13.07:106][827]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Tutorial3-Colors
+[2021.04.05-14.13.07:106][827]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial2-obstacles
+[2021.04.05-14.13.07:107][827]LogWorld: UWorld::CleanupWorld for Tutorial2-obstacles, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.13.07:107][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.13.07:144][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.13.07:146][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.04.05-14.13.07:162][827]LogAudio: Display: Audio Device (ID: 5) registered with world 'Tutorial3-Colors'.
+[2021.04.05-14.13.07:163][827]LogAIModule: Creating AISystem for world Tutorial3-Colors
+[2021.04.05-14.13.07:163][827]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.05-14.13.07:165][827]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial3-Colors.Tutorial3-Colors up for play (max tick rate 0) at 2021.04.05-10.13.07
+[2021.04.05-14.13.07:165][827]LogWorld: Bringing up level for play took: 0.001941
+[2021.04.05-14.13.07:166][827]LogLoad: Took 0.059550 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Tutorial3-Colors)
+[2021.04.05-14.13.14:946][760]LogNet: Browse: /Game/ThirdPersonBP/Maps/Tutorial4-PushBlocks
+[2021.04.05-14.13.14:946][760]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Tutorial4-PushBlocks
+[2021.04.05-14.13.14:946][760]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial3-Colors
+[2021.04.05-14.13.14:947][760]LogWorld: UWorld::CleanupWorld for Tutorial3-Colors, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.13.14:947][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.13.14:994][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-14.13.14:996][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.04.05-14.13.15:012][760]LogAudio: Display: Audio Device (ID: 5) registered with world 'Tutorial4-PushBlocks'.
+[2021.04.05-14.13.15:013][760]LogAIModule: Creating AISystem for world Tutorial4-PushBlocks
+[2021.04.05-14.13.15:013][760]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.05-14.13.15:015][760]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial4-PushBlocks.Tutorial4-PushBlocks up for play (max tick rate 0) at 2021.04.05-10.13.15
+[2021.04.05-14.13.15:016][760]LogWorld: Bringing up level for play took: 0.002074
+[2021.04.05-14.13.15:016][760]LogLoad: Took 0.069632 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Tutorial4-PushBlocks)
+[2021.04.05-14.13.21:813][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-14.13.21:813][492]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Tutorial4-PushBlocks
+[2021.04.05-14.13.21:813][492]LogWorld: UWorld::CleanupWorld for Tutorial4-PushBlocks, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-14.13.21:813][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.13.21:821][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.05-14.13.21:827][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-14.13.21:839][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-14.13.21:839][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.05-14.13.21:840][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.05-14.13.21:854][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.04.05-14.13.21:886][494]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.04.05-14.13.24:411][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.05-14.13.24:446][791]LogSavePackage: Moving '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Saved/Tutorial1-Movement97C4759340E38FEC351E1CAEF13EAB75.tmp' to '../../../../../../Programming/Comp207GameFiles/Comp207Game/MyProject/Content/ThirdPersonBP/Maps/Tutorial1-Movement.umap'
+[2021.04.05-14.13.24:465][791]AssetCheck: New page: Asset Save: Tutorial1-Movement
+[2021.04.05-14.13.24:465][791]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Tutorial1-Movement.Tutorial1-Movement
