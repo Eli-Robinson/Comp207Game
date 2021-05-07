@@ -3,3 +3,11 @@ CollisionProject.zip
 MyProject/Content/MaterialsCustom/Skyboxes/RedSkyUnity.dds
 MyProject/Content/MaterialsCustom/Skyboxes/RedSkyOgre.dds
 MyProject/Content/MaterialsCustom/Skyboxes/RedSky.dds
+MyProject/Binaries/Win64/MyProject.exp
+MyProject/Binaries/Win64/MyProject.exe
+MyProject/Binaries/Win64/MyProject.pdb
+MyProject/Saved/Cooked/WindowsNoEditor/MyProject/Content/MaterialsCustom/Skyboxes/SkyMap.uexp
+MyProject/Saved/Cooked/WindowsNoEditor/MyProject/Content/MaterialsCustom/SpaceBox.uexp
+MyProject/Saved/StagedBuilds/WindowsNoEditor/MyProject/Binaries/Win64/MyProject.exe
+MyProject/Saved/StagedBuilds/WindowsNoEditor/MyProject/Content/Paks/MyProject-WindowsNoEditor.pak
+MyProject/Intermediate/Build/Win64/MyProject/Development/Core/SharedPCH.Core.h.pch
